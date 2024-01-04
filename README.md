@@ -2,6 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+clone project
+
+```bash
+git clone https://github.com/raizafr/technical-test-frontend-golektruk.git
+```
+
+add .env or .env.local
+
+```bash
+BASE_URL=https://recruitment-test.gltkdev.com/
+```
+
 First, run the development server:
 
 ```bash
